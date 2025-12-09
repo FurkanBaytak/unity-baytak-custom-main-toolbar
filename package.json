@@ -1,0 +1,12 @@
+{
+  "name": "com.baytak.customtoolbar",
+  "displayName": "Baytak Custom Toolbar",
+  "version": "0.1.0",
+  "unity": "6000.3",
+  "description": "Scene dropdown with folder grouping, time scale slider, and a compile button for the Unity 6.3 main toolbar.",
+  "author": {
+    "name": "Furkan Baytak",
+    "url": "https://github.com/FurkanBaytak"
+  },
+  "keywords": [ "editor", "toolbar", "utilities", "unity-6.3" ]
+}
